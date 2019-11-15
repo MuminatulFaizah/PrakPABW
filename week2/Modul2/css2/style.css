@@ -1,0 +1,25 @@
+body {
+	background-image: url(../gambar/me5.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.kotak {
+	background-color: black;
+	width: 70%;
+	margin-top: 42%;
+
+	opacity: 0.5;
+}
+
+h3 {
+	color: white;
+	padding-top: 1%;
+	padding-left: 2%;
+
+}
+h4 {
+	color: white;
+	padding-left: 2%;
+	padding-bottom: 1%;
+}
