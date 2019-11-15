@@ -1,0 +1,56 @@
+body {
+	background-image: url(BG.PNG);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #5F9EA0;
+}
+.header {
+	background-color: blue;
+	list-style-type: none;
+	text-align: right;
+	margin: 0;
+	padding: 0;
+}
+.header li {
+	display: inline-block;
+	font-size: 20px;
+	padding: 20px;
+	position: right;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 10px;
+	text-decoration: none;
+}
+li a:hover:not (.active){
+	background-color: #111;
+}
+.kotak {
+	background-color: black;
+	width: 50%;
+	margin-top: 50%;
+	position: right;
+
+	opacity: 0.5;
+}
+
+h2{
+	color: white;
+	padding-left: 2%;
+	padding-bottom: 1%;
+}
+h4 {
+	color: white;
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+	background-color: #5F9EA0;
+}
